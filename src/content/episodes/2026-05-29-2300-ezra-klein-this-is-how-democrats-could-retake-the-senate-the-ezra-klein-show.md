@@ -4,7 +4,7 @@ podcast: "The Ezra Klein Show"
 podcast_slug: "ezra-klein"
 episode_slug: "this-is-how-democrats-could-retake-the-senate-the-ezra-klein-show"
 episode_url: "https://www.youtube.com/watch?v=-1vBIlE1cI8"
-summary: "本期分析民主党重新夺回美国参议院的可能路径。Ezra Klein 与共和党策略师 Liam Donovan 讨论中期选举环境、特朗普第二任期对共和党候选人的影响、各州参议员席位的攻防关系，以及民主党在候选人选择和议题设置上的现实限制。节目不是简单预测输赢，而是把全国政治气候、地方候选人质量、初选压力和特朗普主义之间的张力放在一起看，帮助读者理解参议院控制权为什么通常取决于少数几个具体州的微妙组合。"
+summary: "本期分析民主党重新夺回美国参议院的可能路径。Ezra Klein 与共和党策略师 Liam Donovan 讨论中期选举环境、特朗普第二任期对共和党候选人的影响、各州参议员席位的攻防关系，以及民主党在候选人选择和议题设置上的现实限制。节目把全国政治气候、地方候选人质量、初选压力和特朗普主义之间的张力放在一起看，解释参议院控制权为什么通常取决于少数具体州的微妙组合。"
 hosts:
   - name: "Ezra Klein"
 guests:

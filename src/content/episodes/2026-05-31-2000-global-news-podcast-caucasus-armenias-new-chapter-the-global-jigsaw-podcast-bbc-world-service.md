@@ -4,7 +4,7 @@ podcast: "Global News Podcast"
 podcast_slug: "global-news-podcast"
 episode_slug: "caucasus-armenias-new-chapter-the-global-jigsaw-podcast-bbc-world-service"
 episode_url: "https://www.youtube.com/watch?v=hMk62qoJmmM"
-summary: "本期聚焦高加索地区的亚美尼亚，以及纳戈尔诺-卡拉巴赫之后这个国家正在经历的外交和身份转向。BBC 记者从埃里温、伦敦和区域政治的多个视角，讨论亚美尼亚与俄罗斯关系降温、亲西方路线、国内反对派、难民问题和“真实的亚美尼亚”叙事。节目适合用来理解一个小国如何在安全依赖、历史创伤、区域强权和欧盟想象之间重新定位自己，也呈现了后苏联空间正在发生的地缘政治重排。它把抽象国际关系落到普通人的身份和生活选择上。"
+summary: "本期聚焦高加索地区的亚美尼亚，以及纳戈尔诺-卡拉巴赫之后这个国家正在经历的外交和身份转向。BBC 记者从埃里温、伦敦和区域政治的多个视角，讨论亚美尼亚与俄罗斯关系降温、亲西方路线、国内反对派、难民问题和“真实的亚美尼亚”叙事。节目呈现一个小国如何在安全依赖、历史创伤、区域强权和欧盟想象之间重新定位自己，也呈现后苏联空间正在发生的地缘政治重排。"
 hosts:
   - name: "Krassi Ivanova Twigg"
 guests:

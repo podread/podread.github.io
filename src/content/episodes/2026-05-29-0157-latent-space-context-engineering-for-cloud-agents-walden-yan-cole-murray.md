@@ -4,7 +4,7 @@ podcast: "Latent Space"
 podcast_slug: "latent-space"
 episode_slug: "context-engineering-for-cloud-agents-walden-yan-cole-murray"
 episode_url: "https://www.youtube.com/watch?v=0fgJPhYcbVk"
-summary: "本期围绕云端 Agent 的上下文工程展开，讨论背景智能体如何从规格说明走到可合并的代码变更。Walden Yan 与 Cole Murray 分享了 cloud agents、Devon、Open Inspect 和评估工具背后的实践，重点不在“让模型更聪明”这个抽象目标，而在如何组织上下文、任务环境、权限、反馈和测试。节目对工程团队很有参考价值：它展示了当智能体开始承担完整开发流程时，人类协作者需要重新设计的不只是提示词，还有整个软件交付机制。"
+summary: "本期围绕云端 Agent 的上下文工程展开，讨论背景智能体如何从规格说明走到可合并的代码变更。Walden Yan 与 Cole Murray 分享了 cloud agents、Devon、Open Inspect 和评估工具背后的实践，重点不在“让模型更聪明”这个抽象目标，而在如何组织上下文、任务环境、权限、反馈和测试。节目展示当智能体开始承担完整开发流程时，软件交付机制需要在提示词之外重新设计。"
 hosts:
   - name: "Swyx"
 guests:
