@@ -279,19 +279,43 @@ h3 {
 
 .people-section {
   border-bottom: 1px solid var(--line);
-  padding: 0 0 24px;
-  margin-bottom: 28px;
+  padding: 0 0 26px;
+  margin-bottom: 32px;
 }
 
-.people-section h2 {
-  font-size: 16px;
-  font-weight: 720;
-  margin-bottom: 13px;
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.people-section h2,
+.people-group h3 {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 680;
+  line-height: 1.4;
+  margin: 0 0 9px;
+}
+
+.people-group + .people-group {
+  margin-top: 20px;
 }
 
 .people-list {
   display: grid;
-  gap: 9px;
+  gap: 14px;
+}
+
+.person-item {
+  display: grid;
+  gap: 4px;
 }
 
 .person-line {
@@ -301,13 +325,13 @@ h3 {
   align-items: baseline;
   color: #4b5563;
   font-size: 14px;
-  line-height: 1.65;
+  line-height: 1.5;
 }
 
 .person-name {
   color: var(--text);
-  font-size: 15px;
-  font-weight: 700;
+  font-size: 16px;
+  font-weight: 680;
 }
 
 .person-label {
@@ -316,8 +340,12 @@ h3 {
   font-weight: 620;
 }
 
-.person-role {
-  color: var(--muted);
+.person-description {
+  max-width: 680px;
+  margin: 0;
+  color: #4b5563;
+  font-size: 14px;
+  line-height: 1.7;
 }
 
 .episode-body {

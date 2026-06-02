@@ -58,22 +58,37 @@ const hasParticipants = episode.data.hosts.length > 0 || episode.data.guests.len
     {
       hasParticipants && (
         <section class="people-section" aria-labelledby="participants-title">
-          <h2 id="participants-title">主持人和嘉宾</h2>
-          <div class="people-list">
-            {episode.data.hosts.map((person) => (
-              <div class="person-line">
-                {person.url ? <a class="person-name" href={person.url}>{person.name}</a> : <span class="person-name">{person.name}</span>}
+          <h2 id="participants-title" class="sr-only">主持人和嘉宾</h2>
+          {episode.data.hosts.length > 0 && (
+            <div class="people-group">
+              <h3>主持人</h3>
+              <div class="people-list">
+                {episode.data.hosts.map((person) => (
+                  <div class="person-item">
+                    <div class="person-line">
+                      {person.url ? <a class="person-name" href={person.url}>{person.name}</a> : <span class="person-name">{person.name}</span>}
+                    </div>
+                    {person.description && <p class="person-description">{person.description}</p>}
+                  </div>
+                ))}
               </div>
-            ))}
-            {episode.data.guests.map((person) => (
-              <div class="person-line">
-                {person.url ? <a class="person-name" href={person.url}>{person.name}</a> : <span class="person-name">{person.name}</span>}
-                <span class="person-label">嘉宾</span>
-                {person.role && <span class="person-role">{person.role}</span>}
-                {person.description && <span>{person.description}</span>}
+            </div>
+          )}
+          {episode.data.guests.length > 0 && (
+            <div class="people-group">
+              <h3>嘉宾</h3>
+              <div class="people-list">
+                {episode.data.guests.map((person) => (
+                  <div class="person-item">
+                    <div class="person-line">
+                      {person.url ? <a class="person-name" href={person.url}>{person.name}</a> : <span class="person-name">{person.name}</span>}
+                    </div>
+                    {person.description && <p class="person-description">{person.description}</p>}
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
+            </div>
+          )}
         </section>
       )
     }
@@ -84,10 +99,12 @@ const hasParticipants = episode.data.hosts.length > 0 || episode.data.guests.len
           <h2 id="mentioned-people-title">提到的人物</h2>
           <div class="people-list">
             {episode.data.mentioned_people.map((person) => (
-              <div class="person-line">
-                {person.url ? <a class="person-name" href={person.url}>{person.name}</a> : <span class="person-name">{person.name}</span>}
-                {person.role && <span class="person-label">{person.role}</span>}
-                {person.description && <span>{person.description}</span>}
+              <div class="person-item">
+                <div class="person-line">
+                  {person.url ? <a class="person-name" href={person.url}>{person.name}</a> : <span class="person-name">{person.name}</span>}
+                  {person.role && <span class="person-label">{person.role}</span>}
+                </div>
+                {person.description && <p class="person-description">{person.description}</p>}
               </div>
             ))}
           </div>
