@@ -4,7 +4,7 @@ podcast: "The Rest Is Politics: US"
 podcast_slug: "rest-is-politics-us"
 episode_slug: "the-real-reason-trump-wants-venezuela"
 episode_url: "https://www.youtube.com/watch?v=irPOK5K-cH0"
-summary: "本期分析特朗普关注委内瑞拉的真实动机，讨论石油、移民、拉美右翼政治、美国外交路线，以及委内瑞拉内部权力结构。"
+summary: "本期分析特朗普关注委内瑞拉的真实动机，讨论石油资源、移民议题、美国对拉美政策、右翼政治联盟和委内瑞拉内部权力结构。节目把 Marco Rubio、Nicolás Maduro、Javier Milei 等人物放进同一张地缘政治图中，解释美国国内政治如何影响对外政策选择。它适合读者理解委内瑞拉问题为什么不只是外交新闻，也牵动能源、安全、意识形态和美国选举政治。对拉美政治不熟悉的读者也能获得清晰背景。"
 hosts: []
 guests:
   - name: "Rory Stewart"

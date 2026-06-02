@@ -4,7 +4,7 @@ podcast: "Freakonomics Radio"
 podcast_slug: "freakonomics"
 episode_slug: "is-economic-growth-the-wrong-goal-update-freakonomics-radio-episode-429"
 episode_url: "https://www.youtube.com/watch?v=WAA405-6ZEg"
-summary: "本期讨论经济增长是否应该继续作为社会目标，介绍甜甜圈经济学和去增长思想，并通过城市治理案例审视环境边界、分配正义与繁荣定义。"
+summary: "本期讨论经济增长是否仍应被视为社会发展的核心目标。Stephen Dubner 通过 Kate Raworth 的甜甜圈经济学、Jason Hickel 的去增长主张，以及阿姆斯特丹城市治理案例，梳理增长、环境边界、贫富分配和生活质量之间的冲突。节目并不只是反增长宣言，而是在追问 GDP 为什么会成为政策中心、它忽略了哪些生态和社会成本，以及如果不把增长当唯一目标，城市和国家还能用什么框架衡量繁荣。"
 hosts:
   - name: "Stephen Dubner"
 guests:

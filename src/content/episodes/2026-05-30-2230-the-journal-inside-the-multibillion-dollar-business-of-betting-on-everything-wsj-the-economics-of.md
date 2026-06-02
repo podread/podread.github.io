@@ -4,7 +4,7 @@ podcast: "The Journal."
 podcast_slug: "the-journal"
 episode_slug: "inside-the-multibillion-dollar-business-of-betting-on-everything-wsj-the-economics-of"
 episode_url: "https://www.youtube.com/watch?v=S2g0TwfecJE"
-summary: "本期走进预测市场和事件博彩生意，解释 Kalshi、Polymarket 等平台如何把政治、经济和社会事件变成可交易市场。"
+summary: "本期走进预测市场和事件博彩生意，解释 Kalshi、Polymarket 等平台如何把政治、经济、体育和社会事件变成可交易市场。节目从职业博彩玩家和平台顾问的故事切入，讨论监管边界、市场定价、信息优势和“押注万物”的商业诱惑。它适合用来理解一个正在扩张的新金融娱乐形态：当越来越多事件都能被下注，市场到底是在聚合信息，还是在把公共生活进一步游戏化。读者也能看到监管机构面对新市场时的迟疑，以及平台的商业野心。"
 hosts: []
 guests:
   - name: "Frank Satlo"

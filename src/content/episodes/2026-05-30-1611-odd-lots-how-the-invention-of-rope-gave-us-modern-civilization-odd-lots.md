@@ -4,7 +4,7 @@ podcast: "Odd Lots"
 podcast_slug: "odd-lots"
 episode_slug: "how-the-invention-of-rope-gave-us-modern-civilization-odd-lots"
 episode_url: "https://www.youtube.com/watch?v=JThQIaluXPg"
-summary: "本期从绳索这一基础发明讲起，解释纤维、捻制、航海、建筑和工业化之间的联系，展示一种看似普通的技术如何支撑现代文明。"
+summary: "本期从绳索这一基础发明讲起，解释一捆拧在一起的纤维如何支撑航海、建筑、运输、农业和工业化。Odd Lots 的特点是把看似普通的物件放回经济和文明史中观察：绳索并不显眼，却连接了材料科学、劳动组织、远洋贸易和机械系统。节目提醒我们，现代文明不只建立在蒸汽机、电力或芯片这些显性技术上，也依赖大量被低估的基础工具；理解它们，能帮助我们重新看见技术进步的底层结构。它也是一篇关于基础设施想象力的历史故事。"
 hosts:
   - name: "Tracy Alloway"
   - name: "Joe Weisenthal"

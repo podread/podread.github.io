@@ -4,7 +4,7 @@ podcast: "Invest Like the Best"
 podcast_slug: "invest-like-the-best"
 episode_slug: "watts-wafers-and-the-future-of-ai-infra-gavin-baker"
 episode_url: "https://www.youtube.com/watch?v=Mmj_G9RlW-I"
-summary: "本期 Patrick O'Shaughnessy 访谈 Gavin Baker，讨论 AI 基础设施的关键约束：电力、晶圆、GPU、资本开支、台积电产能和前沿模型公司的融资节奏。"
+summary: "本期 Patrick O'Shaughnessy 访谈科技投资人 Gavin Baker，讨论 AI 基础设施投资中最硬的约束。话题从 GPU、晶圆、先进封装和台积电产能讲到电力、数据中心、资本开支和模型公司的融资节奏。节目特别适合从投资视角理解 AI 热潮：它不只问模型会不会更强，而是问整个物理供应链能不能支撑需求、哪些瓶颈会决定赢家，以及当资本市场把未来收入提前定价时，投资人应该如何判断泡沫和真实增长的边界。"
 hosts:
   - name: "Patrick O'Shaughnessy"
 guests:

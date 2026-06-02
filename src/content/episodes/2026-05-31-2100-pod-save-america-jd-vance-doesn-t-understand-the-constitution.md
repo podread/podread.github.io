@@ -4,7 +4,7 @@ podcast: "Pod Save America"
 podcast_slug: "pod-save-america"
 episode_slug: "jd-vance-doesn-t-understand-the-constitution"
 episode_url: "https://www.youtube.com/watch?v=FrSJJ5E2fnA"
-summary: "本期围绕 JD Vance、宪法理解和美国政治修辞展开，结合奥巴马时代经验、林肯演讲和特朗普政治，讨论公共语言与民主制度。"
+summary: "本期围绕 JD Vance、宪法理解和美国政治修辞展开，结合奥巴马时代的演讲经验、林肯的公共语言和特朗普政治的现实影响，讨论政治人物如何使用历史、法律和道德词汇。节目不只是批评某个副总统或某次发言，而是在追问美国民主制度如何依赖共同语言、宪法边界和公众叙事。如果政治传播越来越脱离这些约束，选民听到的将不再是政策辩论，而是权力本身的包装。它适合关注美国政治语言变化的读者，也适合作为修辞分析材料阅读。"
 hosts:
   - name: "John Favro"
 guests:
