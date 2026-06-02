@@ -6,11 +6,221 @@
     <description>用中文读播客。</description>
     <language>zh-CN</language>
     <item>
-      <title>从底层理解 AI 芯片设计 - Reiner Pope</title>
+      <title>JD Vance 不懂宪法</title>
+      <link>https://podread.github.io/episodes/pod-save-america/jd-vance-doesn-t-understand-the-constitution/</link>
+      <guid>https://podread.github.io/episodes/pod-save-america/jd-vance-doesn-t-understand-the-constitution/</guid>
+      <pubDate>Sun, 31 May 2026 13:00:06 GMT</pubDate>
+      <description>欢迎收听 Pod Save America。我是 John Favro。在今天的节目中，我的好朋友、同为 Barack Obama 演讲撰稿人的 Ben Rhodes 来了。美国建国250周年这件事最近一直在我脑海里转，尤其...</description>
+    </item>
+    <item>
+      <title>Benedict Evans 谈 AI、就业，以及为什么一切可能会没事</title>
+      <link>https://podread.github.io/episodes/lennys-podcast/benedict-evans-on-ai-jobs-and-why-its-probably-going-to-be-okay/</link>
+      <guid>https://podread.github.io/episodes/lennys-podcast/benedict-evans-on-ai-jobs-and-why-its-probably-going-to-be-okay/</guid>
+      <pubDate>Sun, 31 May 2026 12:30:37 GMT</pubDate>
+      <description>我最有争议的观点是，我认为 AI 的重要程度跟互联网或移动互联网一样大，也仅仅跟互联网或移动互联网一样大。你对即将到来的就业末日怎么看？每次出现新技术，它都会自动化掉一批工作，然后这种自动化又会催生一批新工作，而你不知道新工...</description>
+    </item>
+    <item>
+      <title>高加索：亚美尼亚的新篇章</title>
+      <link>https://podread.github.io/episodes/global-news-podcast/caucasus-armenias-new-chapter-the-global-jigsaw-podcast-bbc-world-service/</link>
+      <guid>https://podread.github.io/episodes/global-news-podcast/caucasus-armenias-new-chapter-the-global-jigsaw-podcast-bbc-world-service/</guid>
+      <pubDate>Sun, 31 May 2026 12:00:02 GMT</pubDate>
+      <description>苏联解体35年后，仍有国家在努力摆脱俄罗斯的轨道。其中一个例子就是南高加索的一个国家，它正在筹备选举。普京说的话确实让所有人感到不安——他说如果亚美尼亚想要加入欧盟，就应该以乌克兰为鉴。克里姆林宫的主要宣传人士之一 Vlad...</description>
+    </item>
+    <item>
+      <title>押注万物：价值数十亿美元的预测市场生意内幕</title>
+      <link>https://podread.github.io/episodes/the-journal/inside-the-multibillion-dollar-business-of-betting-on-everything-wsj-the-economics-of/</link>
+      <guid>https://podread.github.io/episodes/the-journal/inside-the-multibillion-dollar-business-of-betting-on-everything-wsj-the-economics-of/</guid>
+      <pubDate>Sat, 30 May 2026 14:30:04 GMT</pubDate>
+      <description>在 Kalshi 和 Polymarket 上，你可以押注霍尔木兹海峡何时重新开放、上午 11 点整比特币的价格，甚至美国政府是否会确认外星生命的存在。预测市场（Prediction Markets）仍然备受追捧。热度之高...</description>
+    </item>
+    <item>
+      <title>走进 Nathan 的第二大脑：安全专家、PAI 创始人 Daniel Miessler 审视我的 AI 配置</title>
+      <link>https://podread.github.io/episodes/cognitive-revolution/inside-nathan-s-second-brain-daniel-miessler-security-expert-creator-of-pai-audits-my-ai-setup/</link>
+      <guid>https://podread.github.io/episodes/cognitive-revolution/inside-nathan-s-second-brain-daniel-miessler-security-expert-creator-of-pai-audits-my-ai-setup/</guid>
+      <pubDate>Sat, 30 May 2026 12:39:16 GMT</pubDate>
+      <description>大家好，欢迎回到 Cognitive Revolution。今天我很高兴地欢迎 Daniel Miessler 回来，他是安全研究员和 Unsupervised Learning 的创始人，这是他第二次做客本播客。今年一月份...</description>
+    </item>
+    <item>
+      <title>绳索的发明如何缔造了现代文明</title>
+      <link>https://podread.github.io/episodes/odd-lots/how-the-invention-of-rope-gave-us-modern-civilization-odd-lots/</link>
+      <guid>https://podread.github.io/episodes/odd-lots/how-the-invention-of-rope-gave-us-modern-civilization-odd-lots/</guid>
+      <pubDate>Sat, 30 May 2026 08:11:53 GMT</pubDate>
+      <description>既然你提到了把两段绳子接在一起，你最喜欢什么绳结？</description>
+    </item>
+    <item>
+      <title>企业偷偷把新化学物质塞进我们食物的手段</title>
+      <link>https://podread.github.io/episodes/planet-money/the-sneaky-way-companies-get-new-chemicals-into-our-food/</link>
+      <guid>https://podread.github.io/episodes/planet-money/the-sneaky-way-companies-get-new-chemicals-into-our-food/</guid>
+      <pubDate>Fri, 29 May 2026 20:08:00 GMT</pubDate>
+      <description>这里是 NPR 的 Planet Money。如果说 Carol Rei 一直以来对自己有一个定义，那就是——活力四射。 活力四射。活力四射。没错。就算是我最累的日子，我也是活力四射的。 不过，有些人可能会说她&quot;烦人&quot;。她自...</description>
+    </item>
+    <item>
+      <title>圣经巨人、恶魔与大洪水前先进文明的秘史</title>
+      <link>https://podread.github.io/episodes/tucker-carlson/the-secret-history-of-biblical-giants-demons-and-the-advanced-civilizations-before-the-great-flood/</link>
+      <guid>https://podread.github.io/episodes/tucker-carlson/the-secret-history-of-biblical-giants-demons-and-the-advanced-civilizations-before-the-great-flood/</guid>
+      <pubDate>Fri, 29 May 2026 17:00:30 GMT</pubDate>
+      <description>感谢你来参加这次对话。 是的，非常乐意。 我这辈子断断续续读了好多遍《创世记》。直到大约四年前，有人跟我提起，我才注意到第六章开头关于拿非利人（Nephilim）的那段。此后几年里，我大概就拿非利人这个话题聊了至少二十五次...</description>
+    </item>
+    <item>
+      <title>物理学最大谜团：反物质、暗能量与万物理论</title>
+      <link>https://podread.github.io/episodes/lex-fridman/biggest-mysteries-in-physics-antimatter-dark-energy-toe-don-lincoln-lex-fridman-podcast-497/</link>
+      <guid>https://podread.github.io/episodes/lex-fridman/biggest-mysteries-in-physics-antimatter-dark-energy-toe-don-lincoln-lex-fridman-podcast-497/</guid>
+      <pubDate>Fri, 29 May 2026 16:18:31 GMT</pubDate>
+      <description>以下是与 Don Lincoln 的对话。Don Lincoln 是费米实验室（Fermilab）的粒子物理学家，在高能物理前沿工作了数十年。这是一次令人震撼又充满启发的对话。Don 是我最喜欢的物理对话伙伴之一。他真的是一...</description>
+    </item>
+    <item>
+      <title>民主党如何夺回参议院</title>
+      <link>https://podread.github.io/episodes/ezra-klein/this-is-how-democrats-could-retake-the-senate-the-ezra-klein-show/</link>
+      <guid>https://podread.github.io/episodes/ezra-klein/this-is-how-democrats-could-retake-the-senate-the-ezra-klein-show/</guid>
+      <pubDate>Fri, 29 May 2026 15:00:39 GMT</pubDate>
+      <description>我现在有个假说——唐纳德·特朗普并没有在努力赢得中期选举。我不是说他有意要输，只是我觉得他根本不在乎。他在乎的是控制共和党。共和党是他的权力基础，是他的保护伞，是他在总统任期结束后还能长期掌握权力的工具。因此，控制共和党才是...</description>
+    </item>
+    <item>
+      <title>AI 帝国如何瓦解我们的民主</title>
+      <link>https://podread.github.io/episodes/the-news-agents/how-ai-emperors-are-breaking-our-democracy-the-news-agents/</link>
+      <guid>https://podread.github.io/episodes/the-news-agents/how-ai-emperors-are-breaking-our-democracy-the-news-agents/</guid>
+      <pubDate>Fri, 29 May 2026 13:34:13 GMT</pubDate>
+      <description>AI 刚出现的时候是什么？它是一个非营利组织。一个非营利组织。听起来很荒唐。没错。AI 是一个政治项目。Meta，原本是一家社交媒体公司，现在成了一家 AI 公司。它目前在路易斯安那州建造的 AI 数据中心，占地面积几乎是当...</description>
+    </item>
+    <item>
+      <title>Jony Ive 的古怪法拉利</title>
+      <link>https://podread.github.io/episodes/the-vergecast/jony-ive-s-funky-ferrari-the-vergecast/</link>
+      <guid>https://podread.github.io/episodes/the-vergecast/jony-ive-s-funky-ferrari-the-vergecast/</guid>
+      <pubDate>Fri, 29 May 2026 12:00:01 GMT</pubDate>
+      <description>本节目由 Ring 赞助播出。有一种安心来自于知道你的家是安全的，还有一种安心是知道你有能力成为一个接待英雄。Ring 视频门铃两者兼顾。无论身在何处都能迎接客人，用有线门铃 Pro 以清晰的 4K 视频查看前门的情况。现在...</description>
+    </item>
+    <item>
+      <title>我去建了一个价值80亿美元的MTV帝国 | Tom Freston</title>
+      <link>https://podread.github.io/episodes/my-first-million/so-i-went-and-built-the-8b-mtv-empire-instead-tom-freston/</link>
+      <guid>https://podread.github.io/episodes/my-first-million/so-i-went-and-built-the-8b-mtv-empire-instead-tom-freston/</guid>
+      <pubDate>Fri, 29 May 2026 10:00:02 GMT</pubDate>
+      <description>我介绍你的方式是这样想的。Tom 帮助创立了 MTV，那是我成长过程中最重要的电视频道之一。放学回家看 TRL，下午三点半左右，那简直是世界上最棒的事。而且你还拥有 VH1、喜剧中心频道（Comedy Central），这意...</description>
+    </item>
+    <item>
+      <title>密封起诉特朗普的理由</title>
+      <link>https://podread.github.io/episodes/rest-is-politics/the-case-for-a-sealed-trump-indictment/</link>
+      <guid>https://podread.github.io/episodes/rest-is-politics/the-case-for-a-sealed-trump-indictment/</guid>
+      <pubDate>Thu, 28 May 2026 18:30:06 GMT</pubDate>
+      <description>你完全有充分的理由准备一份针对特朗普的战争罪或腐败指控的案件。如果我们真的认真对待这个人违反了多项法律、而他又处于我们管辖范围内这一事实，美国公众会怎么反应？</description>
+    </item>
+    <item>
+      <title>云端 Agent 的上下文工程 —— Walden Yan 与 Cole Murray</title>
+      <link>https://podread.github.io/episodes/latent-space/context-engineering-for-cloud-agents-walden-yan-cole-murray/</link>
+      <guid>https://podread.github.io/episodes/latent-space/context-engineering-for-cloud-agents-walden-yan-cole-murray/</guid>
+      <pubDate>Thu, 28 May 2026 17:57:06 GMT</pubDate>
+      <description>当人们想到 AI 能不能运行你的应用、帮你测试的时候，我觉得他们其实过于关注计算机使用（Computer Use）的部分了。因为在我看来，计算机使用本质上就是——你想点一个按钮，能不能输出正确的坐标去点那个按钮。我觉得测试其...</description>
+    </item>
+    <item>
+      <title>早间新闻直播完整版 - 5月28日</title>
+      <link>https://podread.github.io/episodes/newscast-bbc/morning-news-now-full-episode-may-28/</link>
+      <guid>https://podread.github.io/episodes/newscast-bbc/morning-news-now-full-episode-may-28/</guid>
+      <pubDate>Thu, 28 May 2026 15:04:59 GMT</pubDate>
+      <description>【音乐】正在为您跟踪报道的早间新闻直播，中东地区爆发新的冲突，令美国与伊朗之间的和平协议前景蒙上阴影。【音乐】特朗普总统顶住日益增长的结束战争压力，警告如果谈判失败，可能会发动更多袭击。</description>
+    </item>
+    <item>
+      <title>Kenny Smith：NBA冠军讲述从未公开的乔丹故事、Inside the NBA幕后秘闻与人生感悟</title>
+      <link>https://podread.github.io/episodes/pivot/kenny-smith-nba-champ-tells-untold-mj-stories-inside-the-nba-secrets-and-life-lessons-the-pivot/</link>
+      <guid>https://podread.github.io/episodes/pivot/kenny-smith-nba-champ-tells-untold-mj-stories-inside-the-nba-secrets-and-life-lessons-the-pivot/</guid>
+      <pubDate>Tue, 26 May 2026 16:00:06 GMT</pubDate>
+      <description>我走到哪儿都有人跟我聊三分球的事，因为当时我在总决赛中打破了NBA三分球纪录，常规赛也是。你在季后赛中打出名堂，那才是你扬名立万的时候。对我来说，伟大不仅仅是某个瞬间，还在于你能坚持多久。我们那时候有句话，在第五场或第七场之...</description>
+    </item>
+    <item>
+      <title>从底层理解芯片设计 – Reiner Pope</title>
       <link>https://podread.github.io/episodes/dwarkesh/chip-design-from-the-bottom-up-reiner-pope/</link>
       <guid>https://podread.github.io/episodes/dwarkesh/chip-design-from-the-bottom-up-reiner-pope/</guid>
-      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
-      <description>Reiner Pope 从逻辑门、乘累加、低精度计算、数据搬运和 systolic array 讲起，解释 AI 芯片为什么长成今天这样。</description>
+      <pubDate>Fri, 22 May 2026 16:11:28 GMT</pubDate>
+      <description>我再次邀请到了 Reiner Pope，他是 Maddock 的 CEO，这是一家新的 AI 芯片公司。上次我们聊的是数据中心里面发生了什么，这次我想了解 AI 芯片内部是怎么回事。一颗芯片到底是怎么工作的？顺便声明一下，我...</description>
+    </item>
+    <item>
+      <title>瓦特、晶圆与AI基础设施的未来 | Gavin Baker</title>
+      <link>https://podread.github.io/episodes/invest-like-the-best/watts-wafers-and-the-future-of-ai-infra-gavin-baker/</link>
+      <guid>https://podread.github.io/episodes/invest-like-the-best/watts-wafers-and-the-future-of-ai-infra-gavin-baker/</guid>
+      <pubDate>Wed, 20 May 2026 12:00:40 GMT</pubDate>
+      <description>AI领域正在发生的事情，我认为是资本主义史上、美国商业史上最非凡的时刻。Anthropic新增了110亿美元的年化经常性收入（ARR）。过去十到十二年间成立的三家最高知名度的SaaS公司是Palantir、Snowflake...</description>
+    </item>
+    <item>
+      <title>先锋集团：那位为投资者省下一万亿美元的&quot;共产主义资本家&quot;</title>
+      <link>https://podread.github.io/episodes/acquired/vanguard-the-communist-capitalist-who-saved-investors-a-trillion-dollars-audio/</link>
+      <guid>https://podread.github.io/episodes/acquired/vanguard-the-communist-capitalist-who-saved-investors-a-trillion-dollars-audio/</guid>
+      <pubDate>Mon, 18 May 2026 20:44:21 GMT</pubDate>
+      <description>我跟我老婆说，你知道吗，我觉得今晚应该能赶上哄孩子睡觉，说不定连晚饭都能一起吃。她说：&quot;哦哦哦，别急，别太乐观了。咱别搞得太疯狂了。&quot; 笑声 能有多复杂啊？不就是指数基金嘛。还有主动基金、货币市场基金、经纪业务、投顾服务，还...</description>
+    </item>
+    <item>
+      <title>Android 发布会回顾！</title>
+      <link>https://podread.github.io/episodes/waveform/the-android-show-recap/</link>
+      <guid>https://podread.github.io/episodes/waveform/the-android-show-recap/</guid>
+      <pubDate>Fri, 15 May 2026 15:09:00 GMT</pubDate>
+      <description>我在推特上发了一张 Google 幻灯片的截图，上面写着&quot;预订两张这场演唱会的前排座位。&quot;然后视频里，那个人就点了一下，整个交互就结束了。他们就说：&quot;好的，&amp;gt;&amp;gt; 票买到了。&quot;&amp;gt;&amp;gt; 什么？不是，买票不是...</description>
+    </item>
+    <item>
+      <title>特朗普最疯狂幕僚的惊天秘密：作者访谈</title>
+      <link>https://podread.github.io/episodes/the-daily/wild-secrets-of-trump-s-most-deranged-goon-author-the-daily-beast-podcast/</link>
+      <guid>https://podread.github.io/episodes/the-daily/wild-secrets-of-trump-s-most-deranged-goon-author-the-daily-beast-podcast/</guid>
+      <pubDate>Thu, 16 Apr 2026 01:00:06 GMT</pubDate>
+      <description>我甚至不知道该从哪里开始谈他和女性的关系。我觉得这是另一种成瘾，就像酒精和毒品一样。当然，这是他一直试图忍住、试图戒掉的东西。</description>
+    </item>
+    <item>
+      <title>Anthropic 的世代级爆发、OpenAI 恐慌、AI 护城河、Meta 连输重大诉讼</title>
+      <link>https://podread.github.io/episodes/all-in/anthropic-s-generational-run-openai-panics-ai-moats-meta-loses-major-lawsuits/</link>
+      <guid>https://podread.github.io/episodes/all-in/anthropic-s-generational-run-openai-panics-ai-moats-meta-loses-major-lawsuits/</guid>
+      <pubDate>Fri, 27 Mar 2026 20:21:04 GMT</pubDate>
+      <description>好的，各位。欢迎回到全球第一播客。神奇四侠，原版阵容。 哦，原班人马回来了。 原班人马回来了。 战友。 兄弟战友。 走起，好兄弟们。这周新闻很多。David Sacks 回来了。他在伟大的得克萨斯州。Sacks，怎么样？得克...</description>
+    </item>
+    <item>
+      <title>我们对2025年美国的预测有多准？</title>
+      <link>https://podread.github.io/episodes/americast/how-well-did-we-predict-the-us-in-2025-bbc-americast/</link>
+      <guid>https://podread.github.io/episodes/americast/how-well-did-we-predict-the-us-in-2025-bbc-americast/</guid>
+      <pubDate>Sat, 27 Dec 2025 08:39:28 GMT</pubDate>
+      <description>我在想表情包的事，你知道的，我们一直在聊那个。表情包。Anthony 一如既往地拿了满分10分。我觉得你可能有个水晶球，Anthony。现在说到 Sarah，如果你当初预测的是 Donald Trump 会赢得首届 FIFA...</description>
+    </item>
+    <item>
+      <title>Sam Altman：OpenAI 如何赢得 AI 竞赛、ChatGPT 的未来、基础设施建设逻辑与 2026 年 IPO？</title>
+      <link>https://podread.github.io/episodes/big-technology/sam-altman-how-openai-wins-chatgpts-future-ai-buildout-logic-ipo-in-2026/</link>
+      <guid>https://podread.github.io/episodes/big-technology/sam-altman-how-openai-wins-chatgpts-future-ai-buildout-logic-ipo-in-2026/</guid>
+      <pubDate>Thu, 18 Dec 2025 20:20:06 GMT</pubDate>
+      <description>你提到的那 1.4 万亿美元，我们会在很长一段时间里分批投入。我希望能更快一些。我觉得一次性把这些数字背后的逻辑向所有人讲清楚会很好。指数增长（Exponential Growth）通常对大多数人来说很难直观理解。</description>
+    </item>
+    <item>
+      <title>特朗普觊觎委内瑞拉的真正原因</title>
+      <link>https://podread.github.io/episodes/rest-is-politics-us/the-real-reason-trump-wants-venezuela/</link>
+      <guid>https://podread.github.io/episodes/rest-is-politics-us/the-real-reason-trump-wants-venezuela/</guid>
+      <pubDate>Thu, 18 Dec 2025 19:30:06 GMT</pubDate>
+      <description>美国舰队的很大一部分现在停泊在拉丁美洲海域。这里有大格局的地缘政治博弈在上演。这是古巴导弹危机以来美国在加勒比地区最大规模的海军部署。显然，人们认为这与委内瑞拉有关。政府说是为了打击毒品。很多人认为，不，其实是为了石油。这是...</description>
+    </item>
+    <item>
+      <title>AI 失业末日已经来临</title>
+      <link>https://podread.github.io/episodes/hard-fork/the-a-i-job-apocalypse-is-here-ep-138/</link>
+      <guid>https://podread.github.io/episodes/hard-fork/the-a-i-job-apocalypse-is-here-ep-138/</guid>
+      <pubDate>Fri, 30 May 2025 21:19:18 GMT</pubDate>
+      <description>也许在编程以外的领域训练这些 AI 系统要困难得多。但就目前科技行业和软件工程领域正在发生的事情而言，我认为我们必须认真对待这样一种可能性——我们即将看到初级白领工作者遭受一场真正的大屠杀。是的，绝对如此。我们还在纳闷为什么...</description>
+    </item>
+    <item>
+      <title>No Priors 第80期 | 与 Andrej Karpathy 对谈（OpenAI 与 Tesla）</title>
+      <link>https://podread.github.io/episodes/no-priors/no-priors-ep-80-with-andrej-karpathy-from-openai-and-tesla/</link>
+      <guid>https://podread.github.io/episodes/no-priors/no-priors-ep-80-with-andrej-karpathy-from-openai-and-tesla/</guid>
+      <pubDate>Thu, 05 Sep 2024 10:00:51 GMT</pubDate>
+      <description>掌声 大家好，欢迎回到 No Priors。今天我们和 Andrej Karpathy 在一起聊天，他不需要过多介绍。Andrej 是一位杰出的研究者、深受喜爱的 AI 教育者，也是 OpenAI 的早期团队成员，曾领导 T...</description>
+    </item>
+    <item>
+      <title>Claude 2 AI 如何帮你省下数千美元！</title>
+      <link>https://podread.github.io/episodes/practical-ai/how-claude-2-ai-can-save-you-thousands-of-dollars/</link>
+      <guid>https://podread.github.io/episodes/practical-ai/how-claude-2-ai-can-save-you-thousands-of-dollars/</guid>
+      <pubDate>Thu, 20 Jul 2023 09:21:25 GMT</pubDate>
+      <description>我认识一个百万富翁，他损失了超过十万美元。在这期视频里，我要告诉你怎么避免同样的事情发生在你身上，或者发生在你工作的公司，或者你拥有的公司身上。我会用一个超级强大而且免费的 AI 工具来做到这一点，它叫 Claude 2。我...</description>
+    </item>
+    <item>
+      <title>经济增长是错误的目标吗？（更新版）</title>
+      <link>https://podread.github.io/episodes/freakonomics/is-economic-growth-the-wrong-goal-update-freakonomics-radio-episode-429/</link>
+      <guid>https://podread.github.io/episodes/freakonomics/is-economic-growth-the-wrong-goal-update-freakonomics-radio-episode-429/</guid>
+      <pubDate>Thu, 02 Feb 2023 21:27:42 GMT</pubDate>
+      <description>各位播客听众大家好，在前两期节目中，我们讨论了私募股权行业的经济影响——它一直在将小企业整合成大集团，给成熟企业背上沉重的债务。这有时会带来积极的后果，有时则是负面的。我们一直在追问的核心问题是：私募股权投资者到底是在攫取价...</description>
+    </item>
+    <item>
+      <title>家庭、创业与五万美元</title>
+      <link>https://podread.github.io/episodes/how-i-built-this/family-entrepreneurship-and-50-000-how-i-built-this-with-guy-raz-npr/</link>
+      <guid>https://podread.github.io/episodes/how-i-built-this/family-entrepreneurship-and-50-000-how-i-built-this-with-guy-raz-npr/</guid>
+      <pubDate>Fri, 28 Jan 2022 14:45:16 GMT</pubDate>
+      <description>大家好，我是 Guy，你们知道，过去几年里我见到的最令人振奋的事情之一，就是即便面对这么多的不确定性和怀疑，仍然有大量的人愿意迈出那一步去创办企业。我们 How I Built This 的所有人都想找到一种方式来帮助他们实...</description>
     </item>
   </channel>
 </rss>
