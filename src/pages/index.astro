@@ -10,17 +10,12 @@ const episodes = (await getCollection('episodes'))
 ---
 
 <BaseLayout title="Podread" currentPath="/">
-  <section class="section-head">
-    <div>
-      <p class="kicker">Chinese podcast reading</p>
-      <h1>把值得精读的播客，整理成中文文章。</h1>
-      <p class="lede">每期节目一篇中文稿，保留原始来源与授权状态，适合按节目、主题和时间持续阅读。</p>
-    </div>
-    <div class="toolbar">
-      <a class="pill" href="/episodes/">全部文章</a>
-      <a class="pill" href="/shows/">节目索引</a>
-    </div>
-  </section>
+  <div class="reader-home">
+    <section class="reader-head">
+      <h1>用中文读播客</h1>
+      <p>每期节目整理成一篇中文文章，保留原始来源、播客名称和发布时间。</p>
+    </section>
 
-  <EpisodeList episodes={episodes} />
+    <EpisodeList episodes={episodes} />
+  </div>
 </BaseLayout>

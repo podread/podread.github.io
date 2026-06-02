@@ -8,6 +8,7 @@ const episodeCollection = defineCollection({
     podcast_slug: z.string(),
     episode_slug: z.string(),
     episode_url: z.string().url(),
+    summary: z.string().optional(),
     transcript_source: z.string().optional(),
     source_language: z.string().default('en'),
     article_language: z.string().default('zh-CN'),

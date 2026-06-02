@@ -9,13 +9,14 @@ const episodes = (await getCollection('episodes'))
 ---
 
 <BaseLayout title="文章" currentPath="/episodes/">
-  <section class="section-head">
+  <section class="section-head reader-index-head">
     <div>
-      <p class="kicker">Episodes</p>
       <h1>文章</h1>
       <p class="lede">一篇文章对应一期节目。</p>
     </div>
   </section>
 
-  <EpisodeList episodes={episodes} />
+  <div class="reader-index">
+    <EpisodeList episodes={episodes} />
+  </div>
 </BaseLayout>

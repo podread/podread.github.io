@@ -22,28 +22,22 @@ const formatDate = (date: Date) =>
       {episodes.map((episode) => {
         const href = `/episodes/${episode.data.podcast_slug}/${episode.data.episode_slug}/`;
         return (
-          <article class="article-card">
+          <article class="article-row">
+            <h2 class="article-title">
+              <a href={href}>{episode.data.title}</a>
+            </h2>
             <div class="article-meta">
               <span>{episode.data.podcast}</span>
               <span>{formatDate(episode.data.published_at)}</span>
             </div>
-            <h3>
-              <a href={href}>{episode.data.title}</a>
-            </h3>
-            {episode.data.tags.length > 0 && (
-              <div class="tag-list">
-                {episode.data.tags.map((tag) => (
-                  <a class="tag" href={`/tags/${encodeURIComponent(tag)}/`}>
-                    {tag}
-                  </a>
-                ))}
-              </div>
+            {episode.data.summary && (
+              <p class="article-summary">{episode.data.summary}</p>
             )}
           </article>
         );
       })}
     </div>
   ) : (
-    <div class="empty-state">还没有公开文章。导出脚本会把已授权内容写入站点内容目录。</div>
+    <div class="empty-state">还没有公开文章。导出脚本会把已授权内容写入这里。</div>
   )
 }
