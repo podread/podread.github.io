@@ -1,0 +1,43 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const ebooks = [
+  {
+    title: 'AI 播客中文合集',
+    description: '当前已整理的中文播客文章合集 EPUB，适合导入电子书阅读器或微信读书。',
+    href: '/ebooks/ai-podcast-chinese-anthology.epub',
+    size: '744 KB',
+    updated: '2026/06/02'
+  }
+];
+---
+
+<BaseLayout title="Ebook">
+  <section class="reader-index">
+    <header class="simple-page-head">
+      <h1>ebook</h1>
+      <p>把播客中文稿整理成适合长文阅读的电子书文件。</p>
+    </header>
+
+    <div class="download-list">
+      {
+        ebooks.map((ebook) => (
+          <article class="download-item">
+            <div>
+              <h2>
+                <a href={ebook.href} download>{ebook.title}</a>
+              </h2>
+              <p>{ebook.description}</p>
+              <div class="download-meta">
+                <span>EPUB</span>
+                <span>{ebook.size}</span>
+                <span>{ebook.updated}</span>
+              </div>
+            </div>
+            <a class="download-action" href={ebook.href} download>下载</a>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

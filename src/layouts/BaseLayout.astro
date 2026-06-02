@@ -30,6 +30,12 @@ const socialLinks = [
 ];
 
 const pageTitle = title === 'Podread' ? title : `${title} | Podread`;
+const pathname = Astro.url.pathname;
+const navLinks = [
+  { href: '/', label: 'blog', active: pathname === '/' || pathname.startsWith('/episodes') },
+  { href: '/ebook/', label: 'ebook', active: pathname.startsWith('/ebook') },
+  { href: '/rss.xml', label: 'RSS', active: false }
+];
 ---
 
 <!doctype html>
@@ -40,10 +46,25 @@ const pageTitle = title === 'Podread' ? title : `${title} | Podread`;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
     <link rel="icon" type="image/svg+xml" href="/podread-mark.svg" />
+    <link rel="alternate" type="application/rss+xml" title="Podread RSS" href="/rss.xml" />
     <title>{pageTitle}</title>
   </head>
   <body>
     <div class="site-shell">
+      <header class="site-banner">
+        <div class="banner-inner">
+          <a class="banner-brand" href="/">podread</a>
+          <nav class="banner-nav" aria-label="主导航">
+            {
+              navLinks.map((item) => (
+                <a class:list={['banner-link', { 'is-active': item.active }]} href={item.href}>
+                  {item.label}
+                </a>
+              ))
+            }
+          </nav>
+        </div>
+      </header>
       <main class="page">
         <slot />
       </main>
