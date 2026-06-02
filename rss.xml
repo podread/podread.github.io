@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podread</title>
+    <link>https://podread.github.io/</link>
+    <description>用中文读播客。</description>
+    <language>zh-CN</language>
+    <item>
+      <title>从底层理解 AI 芯片设计 - Reiner Pope</title>
+      <link>https://podread.github.io/episodes/dwarkesh/chip-design-from-the-bottom-up-reiner-pope/</link>
+      <guid>https://podread.github.io/episodes/dwarkesh/chip-design-from-the-bottom-up-reiner-pope/</guid>
+      <pubDate>Thu, 21 May 2026 16:00:00 GMT</pubDate>
+      <description>Reiner Pope 从逻辑门、乘累加、低精度计算、数据搬运和 systolic array 讲起，解释 AI 芯片为什么长成今天这样。</description>
+    </item>
+  </channel>
+</rss>
