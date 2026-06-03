@@ -244,6 +244,10 @@ h3 {
   padding: 18px 0 19px;
 }
 
+.article-row[hidden] {
+  display: none;
+}
+
 .article-card {
   display: grid;
   gap: 10px;
