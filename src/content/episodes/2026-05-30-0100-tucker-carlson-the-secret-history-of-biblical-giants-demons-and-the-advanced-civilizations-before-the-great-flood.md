@@ -5,6 +5,7 @@ podcast_slug: "tucker-carlson"
 episode_slug: "the-secret-history-of-biblical-giants-demons-and-the-advanced-civilizations-before-the-great-flood"
 episode_url: "https://www.youtube.com/watch?v=5x9vR5sKHFI"
 summary: "本期访谈东正教神父和圣经学者 Stephen De Young，讨论圣经巨人、恶魔、大洪水前文明、古代文本和现代神秘主义叙事之间的关系。对话涉及《创世记》、拿非利人、苏美尔王表、洪水传说和 Graham Hancock 式古文明假说，也穿插对现代神秘学和权力崇拜的批评。节目呈现一种宗教解释框架如何处理古代文本、神秘叙事和现代文化争议。"
+category: "文化"
 hosts:
   - name: "Tucker Carlson"
   - name: "Fr. Stephen De Young"

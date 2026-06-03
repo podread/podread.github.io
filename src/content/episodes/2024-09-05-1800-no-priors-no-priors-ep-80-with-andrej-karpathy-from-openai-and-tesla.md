@@ -5,6 +5,7 @@ podcast_slug: "no-priors"
 episode_slug: "no-priors-ep-80-with-andrej-karpathy-from-openai-and-tesla"
 episode_url: "https://www.youtube.com/watch?v=hM_h0UA7upI"
 summary: "本期 Sarah Guo 与 Elad Gil 访谈 Andrej Karpathy，讨论他在 OpenAI、Tesla、教育和 AI 研究中的经验。话题横跨模型训练、自动驾驶、机器人、AI 教育、工程文化和研究品味，也涉及他如何看待大模型能力边界与未来应用。Karpathy 在对话中不断回到系统如何学习、人类如何学习、以及什么样的工具能真正帮助更多人掌握复杂知识。"
+category: "AI"
 hosts:
   - name: "Sarah Guo"
   - name: "Elad Gil"

@@ -5,6 +5,7 @@ podcast_slug: "waveform"
 episode_slug: "the-android-show-recap"
 episode_url: "https://www.youtube.com/watch?v=2Ft0NWeznB4"
 summary: "本期回顾 Android 发布会，讨论 Gemini 深度整合、系统交互、数字健康、Instagram 相机支持、车载体验和 Android 生态的新功能。几位主持人用轻松的科技播客风格拆解发布会承诺和实际可用性，既关注 AI 功能如何进入手机系统，也吐槽演示、产品命名和平台策略。节目重点判断这些功能会不会真正改变用户每天使用手机的方式，以及 Android 更新中哪些是实用变化、哪些更像展示性功能。"
+category: "科技"
 hosts:
   - name: "Marques Brownlee (MKBHD)"
   - name: "Adam"

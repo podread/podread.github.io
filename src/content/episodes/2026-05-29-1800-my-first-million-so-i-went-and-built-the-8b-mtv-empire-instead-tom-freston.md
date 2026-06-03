@@ -5,6 +5,7 @@ podcast_slug: "my-first-million"
 episode_slug: "so-i-went-and-built-the-8b-mtv-empire-instead-tom-freston"
 episode_url: "https://www.youtube.com/watch?v=7_65wOSC0Cw"
 summary: "本期 Tom Freston 回顾 MTV 帝国的创建过程，讲述一个边缘音乐频道如何成长为影响全球青年文化、最终价值数十亿美元的媒体公司。对话不仅涉及节目、品牌、广告和有线电视商业模式，也谈到文化判断、团队搭建、国际扩张和娱乐产业的窗口期。MTV 的故事说明，商业机会有时来自技术分发渠道的变化，但真正决定规模的是能否抓住一代人的审美和身份表达，并把这种文化感转成组织能力。"
+category: "创业"
 hosts:
   - name: "Sam Parr"
 guests:

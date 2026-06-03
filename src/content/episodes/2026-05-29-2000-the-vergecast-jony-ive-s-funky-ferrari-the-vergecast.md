@@ -5,6 +5,7 @@ podcast_slug: "the-vergecast"
 episode_slug: "jony-ive-s-funky-ferrari-the-vergecast"
 episode_url: "https://www.youtube.com/watch?v=APYcWmjqBoI"
 summary: "本期讨论 Jony Ive 与 Ferrari 的设计合作、YouTube 的 AI 标签、创作者工具、平台治理和消费科技发布。The Vergecast 把设计、产品和科技公司策略放到同一张桌上讨论：一辆古怪的 Ferrari 不只是汽车新闻，也连接着奢侈品牌、工业设计和名人设计师的影响力；而 AI 标签和平台政策则反映创作者生态正在面对的新信任问题。"
+category: "科技"
 hosts:
   - name: "David Pierce"
 guests:

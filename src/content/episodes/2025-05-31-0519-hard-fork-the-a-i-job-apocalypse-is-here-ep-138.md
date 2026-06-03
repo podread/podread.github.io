@@ -5,6 +5,7 @@ podcast_slug: "hard-fork"
 episode_slug: "the-a-i-job-apocalypse-is-here-ep-138"
 episode_url: "https://www.youtube.com/watch?v=nG_jGZuRBxs"
 summary: "本期讨论 AI 是否已经开始冲击初级白领工作，并把科技行业的就业变化放到更大的社会焦虑中观察。Kevin Roose 与 Casey Newton 先从年轻毕业生和入门岗位的困境谈起，随后访谈 Anthropic 首席产品官 Mike Krieger，深入 Claude 4、智能体工具、AI 勒索实验、Meta 反垄断案和产品责任。节目围绕一个核心问题展开：如果 AI 先替代一部分职业入口，企业、政策制定者和年轻劳动者将面对怎样的结构变化。"
+category: "科技"
 hosts:
   - name: "Kevin Roose"
   - name: "Casey Newton"

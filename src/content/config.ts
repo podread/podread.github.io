@@ -16,6 +16,7 @@ const episodeCollection = defineCollection({
     episode_slug: z.string(),
     episode_url: z.string().url(),
     summary: z.string().optional(),
+    category: z.string().default('播客'),
     hosts: z.array(personSchema).default([]),
     guests: z.array(personSchema).default([]),
     mentioned_people: z.array(personSchema).default([]),

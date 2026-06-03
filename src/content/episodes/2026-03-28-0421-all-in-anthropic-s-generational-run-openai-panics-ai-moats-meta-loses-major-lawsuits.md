@@ -5,6 +5,7 @@ podcast_slug: "all-in"
 episode_slug: "anthropic-s-generational-run-openai-panics-ai-moats-meta-loses-major-lawsuits"
 episode_url: "https://www.youtube.com/watch?v=4Gmd5UTF4rk"
 summary: "本期围绕 AI 公司竞争和硅谷政治展开，重点讨论 Anthropic 的快速增长、Claude Code 带来的企业市场突破、OpenAI 在消费者和 API 市场中的压力，以及 AI 产品到底有没有可持续护城河。几位主持人还把话题延伸到 Meta 诉讼、监管俘获、国防采购、意识形态和资本市场叙事，呈现硅谷投资人如何同时从产品能力、商业模式、政策风险和市场情绪评估前沿 AI 公司。"
+category: "AI"
 hosts:
   - name: "Jason Calacanis"
   - name: "Chamath Palihapitiya"

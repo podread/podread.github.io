@@ -5,6 +5,7 @@ podcast_slug: "rest-is-politics"
 episode_slug: "the-case-for-a-sealed-trump-indictment"
 episode_url: "https://www.youtube.com/watch?v=F_cXIGx3oc4"
 summary: "本期讨论密封起诉特朗普的理由，并把法律程序、政治风险和国际局势放在一起分析。Rory Stewart 与 Alastair Campbell 从美国司法制度谈到以色列、古巴和外交权力，关注的问题不是某条新闻本身，而是政治领导人在法律压力、国际危机和舆论动员中如何使用制度缝隙。节目把历史经验、现实政治和权力制衡交织起来，也讨论法律判断如何受到政治后果牵引。"
+category: "政治"
 hosts: []
 guests:
   - name: "Rory Stewart"

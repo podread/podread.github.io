@@ -21,10 +21,11 @@ const formatDate = (date: Date) =>
     <div class="article-list">
       {episodes.map((episode) => {
         const href = `/episodes/${episode.data.podcast_slug}/${episode.data.episode_slug}/`;
+        const title = `${episode.data.category} - ${episode.data.title}`;
         return (
           <article class="article-row">
             <h2 class="article-title">
-              <a href={href}>{episode.data.title}</a>
+              <a href={href}>{title}</a>
             </h2>
             <div class="article-meta">
               <span>{episode.data.podcast}</span>

@@ -5,6 +5,7 @@ podcast_slug: "planet-money"
 episode_slug: "the-sneaky-way-companies-get-new-chemicals-into-our-food"
 episode_url: "https://www.youtube.com/watch?v=_frJhN-oaRs"
 summary: "本期调查食品公司如何通过 GRAS 机制把新化学物质加入食品供应链。节目以塔拉粉中毒事件为切入点，解释美国食品监管中“通常认为安全”的制度设计、企业自我认定、监管资源不足和法律追责之间的漏洞。它不是单纯食品安全故事，而是在追问一个制度问题：当新成分越来越多、供应链越来越复杂时，谁真正负责证明它们安全，消费者又如何在标签看不见的地方承担风险。"
+category: "社会"
 hosts:
   - name: "Sarah Gonzalez"
 guests:

@@ -5,6 +5,7 @@ podcast_slug: "pivot"
 episode_slug: "kenny-smith-nba-champ-tells-untold-mj-stories-inside-the-nba-secrets-and-life-lessons-the-pivot"
 episode_url: "https://www.youtube.com/watch?v=esQfMkjWJ38"
 summary: "本期 Kenny Smith 回顾自己的 NBA 生涯、休斯顿火箭冠军经历、与 Michael Jordan 和 Hakeem Olajuwon 的故事，以及 Inside the NBA 的幕后文化。几位主持人不仅聊篮球技术和比赛记忆，也谈家庭、成长、竞争心态、媒体转型和退役后的身份重建。节目围绕一个顶级运动员如何把球场经验转化为电视表达、团队关系和人生判断展开。"
+category: "体育"
 hosts:
   - name: "Ryan Clark"
   - name: "Channing Crowder"

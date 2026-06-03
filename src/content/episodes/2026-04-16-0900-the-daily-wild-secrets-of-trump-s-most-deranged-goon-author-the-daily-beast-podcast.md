@@ -5,6 +5,7 @@ podcast_slug: "the-daily"
 episode_slug: "wild-secrets-of-trump-s-most-deranged-goon-author-the-daily-beast-podcast"
 episode_url: "https://www.youtube.com/watch?v=-wR3Cr4mMDE"
 summary: "本期围绕 RFK Jr. 与特朗普阵营中的争议人物展开，通过作者访谈梳理 Kennedy 家族背景、私人生活丑闻、公共卫生政策争议和政治角色变化。节目一方面带有强烈人物报道色彩，另一方面也展示了美国政治中名门姓氏、反建制情绪和健康议题如何交织。讨论重点在于一个带有历史光环的人物如何在当代政治中成为复杂且充满争议的节点，以及媒体如何处理传记和政治批评之间的关系。"
+category: "政治"
 hosts:
   - name: "Joanna Coles"
 guests:

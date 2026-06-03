@@ -5,6 +5,7 @@ podcast_slug: "the-news-agents"
 episode_slug: "how-ai-emperors-are-breaking-our-democracy-the-news-agents"
 episode_url: "https://www.youtube.com/watch?v=km22SQUgl20"
 summary: "本期讨论 AI 巨头如何影响民主政治。Lewis Goodall 访谈科技记者 Karen How，围绕 OpenAI、xAI、Sam Altman、Elon Musk、Tony Blair 等人物和机构，分析科技领袖如何通过资本、游说、叙事和基础设施成为政治行为者。节目不是泛泛批评 AI，而是在追问民主制度是否准备好面对拥有准国家级资源的公司；当这些公司声称自己在建设未来时，公众如何监督它们对劳动、信息和权力结构的影响。"
+category: "AI"
 hosts:
   - name: "Lewis Goodall"
 guests:

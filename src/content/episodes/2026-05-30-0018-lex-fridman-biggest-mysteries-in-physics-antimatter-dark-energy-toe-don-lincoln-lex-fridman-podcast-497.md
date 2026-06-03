@@ -5,6 +5,7 @@ podcast_slug: "lex-fridman"
 episode_slug: "biggest-mysteries-in-physics-antimatter-dark-energy-toe-don-lincoln-lex-fridman-podcast-497"
 episode_url: "https://www.youtube.com/watch?v=1M3Vdl6DRkU"
 summary: "本期 Lex Fridman 访谈粒子物理学家 Don Lincoln，围绕物理学中的统一思想展开，从牛顿统一天体和地面引力、麦克斯韦统一电与磁，讲到标准模型、反物质、暗能量和万物理论。对话既有历史脉络，也有基础科学的哲学意味，讨论物理学为什么持续寻找更底层的规律，为什么某些看似遥远的谜题可能带来技术突破，以及科学家如何在已知边界之外继续追问宇宙的构造。"
+category: "科学"
 hosts:
   - name: "Lex Fridman"
 guests:

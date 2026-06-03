@@ -5,6 +5,7 @@ podcast_slug: "dwarkesh"
 episode_slug: "chip-design-from-the-bottom-up-reiner-pope"
 episode_url: "https://www.youtube.com/watch?v=oIk3R-sMX5o"
 summary: "本期从最底层理解 AI 芯片设计。Dwarkesh Patel 与 Reiner Pope 从逻辑门、与或非、4 比特乘法和乘累加讲起，逐步推到矩阵乘法、数值精度、缓存、片上网络、编译器、内存带宽和数据中心约束。节目把“AI 芯片”拆成一连串具体工程决策，讨论为什么某些计算单元更适合模型训练，为什么能耗和数据搬运常常比算术本身更关键，以及芯片创业公司如何在这些约束中寻找机会。"
+category: "AI"
 hosts:
   - name: "Dwarkesh Patel"
 guests:

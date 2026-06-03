@@ -5,6 +5,7 @@ podcast_slug: "big-technology"
 episode_slug: "sam-altman-how-openai-wins-chatgpts-future-ai-buildout-logic-ipo-in-2026"
 episode_url: "https://www.youtube.com/watch?v=2P27Ef-LLuQ"
 summary: "本期 Alex Kantrowitz 访谈 Sam Altman，集中讨论 OpenAI 在 AI 竞赛中的战略位置。话题包括 ChatGPT 的未来产品形态、消费者订阅和企业 API 的收入结构、算力基础设施建设、模型成本、数据中心和芯片供应，以及外界关注的 IPO 时间表。相比单纯谈愿景，这期更像一次商业和资本开支访谈，试图解释一家前沿模型公司如何在爆炸式需求、巨额投入和激烈竞争之间寻找可持续路径。"
+category: "AI"
 hosts:
   - name: "Alex Kantrowitz"
 guests:

@@ -5,6 +5,7 @@ podcast_slug: "practical-ai"
 episode_slug: "how-claude-2-ai-can-save-you-thousands-of-dollars"
 episode_url: "https://www.youtube.com/watch?v=zpVaY12xU0g"
 summary: "本期用一个保险合同纠纷案例演示 Claude 2 的实用价值：一对夫妻在财物被盗后才发现多年续约的保险合同条款已经悄悄变化，最终只能获得极低赔偿。节目随后展示如何把旧合同和新合同交给 AI 对比，快速找出关键变更、缺失保障和潜在风险。讨论重点是把复杂文本转成可检查的问题清单，降低合同、协议和文件审查中的疏漏。"
+category: "AI"
 hosts: []
 guests:
   - name: "Thomas"

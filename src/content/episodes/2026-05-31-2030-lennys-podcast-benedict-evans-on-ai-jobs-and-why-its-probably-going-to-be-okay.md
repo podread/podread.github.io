@@ -5,6 +5,7 @@ podcast_slug: "lennys-podcast"
 episode_slug: "benedict-evans-on-ai-jobs-and-why-its-probably-going-to-be-okay"
 episode_url: "https://www.youtube.com/watch?v=BD3vLtWhT5A"
 summary: "本期 Benedict Evans 讨论 AI 对工作、软件、互联网平台和商业模式的影响。与许多极端乐观或极端悲观的叙事不同，他把 AI 放进互联网、移动互联网、电子表格和企业软件的历史中比较，解释为什么变化会很大，但就业结果未必按“所有岗位马上消失”的方式展开。节目同时讨论软件开发和知识工作如何被改造，以及新技术通常怎样先改变任务结构，再逐步重塑行业和组织。"
+category: "科技"
 hosts:
   - name: "Lenny"
 guests:

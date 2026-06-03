@@ -5,6 +5,7 @@ podcast_slug: "americast"
 episode_slug: "how-well-did-we-predict-the-us-in-2025-bbc-americast"
 episode_url: "https://www.youtube.com/watch?v=Ll5kqryc4Sc"
 summary: "本期是 Americast 团队对 2025 年美国政治预测的一次复盘。几位主持人回看年初关于特朗普政府、共和党内部权力、公共卫生争议、社交媒体政治和美国社会情绪的判断，逐项讨论哪些应验、哪些失准。节目借预测成败观察美国政治在一年中的真实走向，也呈现媒体人如何修正自己对特朗普时代、共和党权力结构和选民情绪的理解。"
+category: "政治"
 hosts:
   - name: "Justin Webb"
   - name: "Mariana Spring"
