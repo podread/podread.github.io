@@ -22,7 +22,7 @@ const formatDate = (date: Date) =>
       {episodes.map((episode) => {
         const href = `/episodes/${episode.data.podcast_slug}/${episode.data.episode_slug}/`;
         return (
-          <article class="article-row">
+          <article class="article-row" data-category={episode.data.category}>
             <h2 class="article-title">
               <a href={href}>{episode.data.title}</a>
               <span class="category-tag">{episode.data.category}</span>

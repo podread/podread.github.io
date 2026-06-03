@@ -6,6 +6,29 @@ import EpisodeList from '@components/EpisodeList.astro';
 const episodes = (await getCollection('episodes'))
   .filter((episode) => episode.data.rights_status !== 'local_only')
   .sort((a, b) => b.data.published_at.getTime() - a.data.published_at.getTime());
+
+const categoryOrder = ['政治', '商业', '经济', '科技'];
+const articleCategories = Array.from(new Set(episodes.map((episode) => episode.data.category)))
+  .filter(Boolean)
+  .sort((a, b) => {
+    const left = categoryOrder.indexOf(a);
+    const right = categoryOrder.indexOf(b);
+
+    if (left === -1 && right === -1) {
+      return a.localeCompare(b, 'zh-CN');
+    }
+
+    if (left === -1) {
+      return 1;
+    }
+
+    if (right === -1) {
+      return -1;
+    }
+
+    return left - right;
+  });
+const categories = ['全部', ...articleCategories];
 ---
 
 <BaseLayout title="Podread">
@@ -13,8 +36,59 @@ const episodes = (await getCollection('episodes'))
     <section class="reader-head">
       <h1>用中文读播客</h1>
       <p>为中文互联网搬来高质量播客内容，整理成清晰可读的文章。</p>
+      <div class="category-filter" aria-label="文章类别">
+        {categories.map((category) => (
+          <button
+            class="category-filter-button"
+            type="button"
+            data-filter={category}
+            aria-pressed={category === '全部' ? 'true' : 'false'}
+          >
+            {category}
+          </button>
+        ))}
+      </div>
     </section>
 
     <EpisodeList episodes={episodes} />
   </div>
+
+  <script>
+    const filterButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-filter]'));
+    const articleRows = Array.from(document.querySelectorAll<HTMLElement>('[data-category]'));
+    const validCategories = new Set(filterButtons.map((button) => button.dataset.filter));
+
+    const applyCategoryFilter = (category: string, shouldUpdateUrl = true) => {
+      const activeCategory = validCategories.has(category) ? category : '全部';
+
+      filterButtons.forEach((button) => {
+        const isActive = button.dataset.filter === activeCategory;
+        button.classList.toggle('is-active', isActive);
+        button.setAttribute('aria-pressed', String(isActive));
+      });
+
+      articleRows.forEach((row) => {
+        row.hidden = activeCategory !== '全部' && row.dataset.category !== activeCategory;
+      });
+
+      if (shouldUpdateUrl) {
+        const url = new URL(window.location.href);
+        if (activeCategory === '全部') {
+          url.searchParams.delete('category');
+        } else {
+          url.searchParams.set('category', activeCategory);
+        }
+        window.history.replaceState({}, '', url);
+      }
+    };
+
+    const initialCategory = new URL(window.location.href).searchParams.get('category') ?? '全部';
+    applyCategoryFilter(initialCategory, false);
+
+    filterButtons.forEach((button) => {
+      button.addEventListener('click', () => {
+        applyCategoryFilter(button.dataset.filter ?? '全部');
+      });
+    });
+  </script>
 </BaseLayout>
