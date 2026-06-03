@@ -132,11 +132,25 @@
       <description>本期节目回顾了 Google 的 Android 发布会。几位主持人讨论了 Android 17 的主要更新，包括 Gemini AI 深度整合、新的「暂停点」数字健康功能、屏幕反应相机模式、与 Instagram 的原生相机集成，以及 AirDrop 跨平台兼容。Android Auto 获得了重大升级，包括 3D 导航视图和车载视频播放。节目还讨论了 Gemini 的代理式功能演示（如自动订票和买教材）引发的信任问题，以及 Google Book 这个新产品类别的定位困惑。此外还聊了 Fitbit Air 无屏幕健身追踪器如何挑战 Whoop 的市场地位，并进行了一场以 Reddit 帖子为题的 Family Feud 游戏。</description>
     </item>
     <item>
+      <title>Andrej Karpathy：从氛围编程到智能体工程</title>
+      <link>https://podread.github.io/episodes/training-data/training-data/</link>
+      <guid>https://podread.github.io/episodes/training-data/training-data/</guid>
+      <pubDate>Wed, 29 Apr 2026 04:00:00 GMT</pubDate>
+      <description>本期节目邀请 Andrej Karpathy 深入讨论了 AI 编程工具的剧变。他分享了 2025 年 12 月以来智能体编码工具质的飞跃体验，提出了 Software 3.0（以提示词和上下文窗口为编程界面）的范式转变，用 MenuGen 等实例说明大量传统应用代码将被神经网络直接取代。他还阐述了可验证性如何决定 AI 能力的「参差不齐」分布，区分了「氛围编程」（提高所有人的下限）和「智能体工程」（在保持质量标准的前提下大幅提速）的不同定位，并探讨了在智能变得廉价的时代，人类的理解力、品味和系统设计能力为何仍是不可外包的核心竞争力。</description>
+    </item>
+    <item>
       <title>Anthropic 的世代级爆发、OpenAI 恐慌、AI 护城河、Meta 连输重大诉讼</title>
       <link>https://podread.github.io/episodes/all-in/all-in/</link>
       <guid>https://podread.github.io/episodes/all-in/all-in/</guid>
       <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
       <description>本期围绕 AI 公司竞争和硅谷政治展开，重点讨论 Anthropic 的快速增长、Claude Code 带来的企业市场突破、OpenAI 在消费者和 API 市场中的压力，以及 AI 产品到底有没有可持续护城河。几位主持人还把话题延伸到 Meta 诉讼、监管俘获、国防采购、意识形态和资本市场叙事，呈现硅谷投资人如何同时从产品能力、商业模式、政策风险和市场情绪评估前沿 AI 公司。</description>
+    </item>
+    <item>
+      <title>技能问题：Andrej Karpathy 谈代码智能体、自动研究与 AI 的循环时代</title>
+      <link>https://podread.github.io/episodes/no-priors/no-priors/</link>
+      <guid>https://podread.github.io/episodes/no-priors/no-priors/</guid>
+      <pubDate>Fri, 20 Mar 2026 04:00:00 GMT</pubDate>
+      <description>本期节目邀请了 AI 领域知名研究者 Andrej Karpathy，围绕代码智能体的崛起展开深入对话。Karpathy 分享了自 2024 年 12 月以来他的工作流发生的根本性转变——从 80% 手写代码变为几乎完全委托给智能体，并将当前状态描述为一种持续的「AI 精神亢奋」。他详细介绍了自己搭建的家庭 AI 管家 Dobby，通过自然语言和 WhatsApp 统一控制灯光、空调、安防等六套系统。讨论深入到 Auto Research 的理念与实践——如何让研究完全自主运行、移除人类瓶颈，以及他在 GPT 训练优化上获得的意外成果。节目还探讨了模型的「锯齿感」问题（在可验证领域极强但在软性任务上仍有明显短板）、开源与闭源模型的动态平衡、独立研究者相对于前沿实验室的角色价值，以及数字世界将先于物理世界被 AI 大幅重构的预判。最后 Karpathy 分享了 Micro GPT 项目背后的教育理念转变——未来的教育不再是直接教人，而是教智能体，让智能体去做个性化教学。</description>
     </item>
     <item>
       <title>2026 年值得关注的三大经济指标</title>
@@ -186,13 +200,6 @@
       <guid>https://podread.github.io/episodes/revisionist-history/revisionist-history/</guid>
       <pubDate>Thu, 24 Apr 2025 04:00:00 GMT</pubDate>
       <description>Malcolm Gladwell 从一段 Joe Rogan 访谈 RFK Jr. 的播客片段出发，探讨了访谈作为一种艺术形式的意义。RFK Jr. 在节目中声称1918年西班牙流感并非由病毒引起，而是疫苗所致，并错误引用了一篇 Fauci 论文作为支撑。Gladwell 指出 Rogan 未能对这些荒谬言论提出任何质疑，并将其与 Oprah Winfrey 的访谈技巧形成鲜明对比——Oprah 在采访 Meghan Markle 时层层深入，引出了关于皇室种族偏见的关键信息。Gladwell 还分析了 Rogan 采访 Elon Musk 和 Matt Walsh 时的类似问题，揭示出一种模式：Rogan 选择做朋友式的闲聊，而非承担采访者的追问责任。随后 Gladwell 追溯了 RFK Jr. 错误信息的来源——一位长岛律师和一位佛罗里达脊椎治疗师的博客文章。节目最后，Gladwell 通过自己在巡回活动中被心理学家 Michael Gervais 采访的经历，展示了一次真正优秀的访谈如何引导受访者走出预设叙事，抵达意想不到的情感深处。</description>
-    </item>
-    <item>
-      <title>对话 Andrej Karpathy：自动驾驶、人形机器人与 AI 教育的未来</title>
-      <link>https://podread.github.io/episodes/no-priors/no-priors/</link>
-      <guid>https://podread.github.io/episodes/no-priors/no-priors/</guid>
-      <pubDate>Thu, 05 Sep 2024 04:00:00 GMT</pubDate>
-      <description>本期节目邀请了前 OpenAI 研究员、前 Tesla Autopilot 负责人 Andrej Karpathy，围绕多个前沿话题展开深度对话。在自动驾驶领域，Karpathy 认为 Tesla 面临的是软件问题而 Waymo 面临的是硬件问题，长期看好 Tesla 的纯视觉方案，并详细分析了端到端深度学习逐步取代手工规则的演进路径。在人形机器人方面，他指出 Tesla 从汽车到 Optimus 的迁移远比外界想象的容易，并预判应用会从工厂内部物料搬运起步，经 B2B 最终走向消费市场。在大模型研究方面，Karpathy 强调 Transformer 架构本身已不再是瓶颈，当前的核心挑战在于数据集和损失函数，合成数据是必经之路但必须警惕模型的静默崩塌问题。他还提出认知核心可以极其小——甚至十亿参数以下就可能足够。最后，Karpathy 分享了创办 Eureka Labs 做 AI 教育的愿景：让教师退居课程设计的后端，AI 成为面向学生的前端，实现优质教育的全球化规模扩展。</description>
     </item>
     <item>
       <title>家庭、创业与五万美元</title>
