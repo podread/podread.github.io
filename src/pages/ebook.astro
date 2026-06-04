@@ -1,13 +1,28 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const epubPath = path.join(process.cwd(), 'public/ebooks/ai-podcast-chinese-anthology.epub');
+let sizeStr = '';
+let updatedStr = '';
+try {
+  const stat = fs.statSync(epubPath);
+  sizeStr = `${Math.round(stat.size / 1024)} KB`;
+  const d = stat.mtime;
+  updatedStr = `${d.getFullYear()}/${String(d.getMonth() + 1).padStart(2, '0')}/${String(d.getDate()).padStart(2, '0')}`;
+} catch {
+  sizeStr = '—';
+  updatedStr = '—';
+}
 
 const ebooks = [
   {
     title: 'AI 播客中文合集',
     description: '当前已整理的中文播客文章合集 EPUB，适合导入电子书阅读器或微信读书。',
     href: '/ebooks/ai-podcast-chinese-anthology.epub',
-    size: '747 KB',
-    updated: '2026/06/02'
+    size: sizeStr,
+    updated: updatedStr,
   }
 ];
 ---
